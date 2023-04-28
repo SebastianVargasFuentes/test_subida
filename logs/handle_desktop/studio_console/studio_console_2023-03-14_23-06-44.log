@@ -1,0 +1,41 @@
+[2023-03-15T02:10:38.732Z] : [error]: Script Stopped.
+
+[2023-03-15T02:10:38.736Z] : [warn]: Total execution time: 3m 11s 205ms
+
+[2023-03-15T02:10:38.737Z] : [info]: ---------------------------------------------
+
+
+  ==========================================
+  Studio Pro version: 8.2.10
+  Started at: 14/3/2023, 23:10:38
+  ==========================================
+  
+
+[2023-03-15T02:10:41.884Z] : [success]: Robot saved successfully
+
+[2023-03-15T02:12:02.001Z] : [error]: Script Stopped.
+
+[2023-03-15T02:12:02.005Z] : [warn]: Total execution time: 1m 3s 326ms
+
+[2023-03-15T02:12:02.006Z] : [info]: ---------------------------------------------
+
+[2023-03-15T02:13:05.721Z] : [success]: Robot saved successfully
+
+[2023-03-15T02:13:09.654Z] : [success]: Bot started
+
+[2023-03-15T02:13:09.655Z] : [info]: Robot start
+
+[2023-03-15T02:33:13.989Z] : [success]: Bot finished successfully, total execution time: 20m 4s 332ms
+
+[2023-03-15T02:33:13.991Z] : [info]: ---------------------------------------------
+
+[2023-03-15T02:51:39.611Z] : [success]: Robot saved successfully
+
+[2023-03-15T02:51:43.494Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-03-15T02:51:43.496Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-03-15T02:51:43.498Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-03-15T02:51:43.499Z] : [error]: Cannot read properties of null (reading 'type')
+

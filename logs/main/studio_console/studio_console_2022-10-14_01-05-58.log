@@ -1,0 +1,19 @@
+
+  ==========================================
+  Studio Pro version: 8.2.10
+  Started at: 14/10/2022, 1:06:18
+  ==========================================
+  
+
+[2022-10-14T04:06:25.994Z] : [success]: Robot saved successfully
+
+[2022-10-14T04:19:48.699Z] : [success]: Robot saved successfully
+
+[2022-10-14T04:20:26.217Z] : [success]: Workflow published successfully
+
+[2022-10-14T04:20:28.997Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2022-10-14T04:20:28.999Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2022-10-14T04:20:29.000Z] : [error]: Cannot read properties of null (reading 'type')
+

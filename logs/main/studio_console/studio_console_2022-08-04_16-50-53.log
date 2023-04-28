@@ -1,0 +1,139 @@
+
+  ==========================================
+  Studio Pro version: 8.2.10
+  Started at: 4/8/2022, 16:51:00
+  ==========================================
+  
+
+[2022-08-04T20:56:12.926Z] : [success]: Robot saved successfully
+
+[2022-08-04T20:56:12.946Z] : [info]: ---------------------------------------------
+
+[2022-08-04T20:56:12.947Z] : [success]: Bot started
+
+[2022-08-04T20:56:12.948Z] : [info]: Robot start
+
+[2022-08-04T21:02:34.063Z] : [success]: Robot saved successfully
+
+[2022-08-04T21:02:34.120Z] : [success]: Bot started
+
+[2022-08-04T21:02:34.121Z] : [info]: Robot start
+
+[2022-08-04T21:08:18.498Z] : [success]: Robot saved successfully
+
+[2022-08-04T21:08:18.517Z] : [success]: Bot started
+
+[2022-08-04T21:08:18.517Z] : [info]: Robot start
+
+[2022-08-04T21:10:22.713Z] : [success]: Bot finished successfully, total execution time: 2m 4s 191ms
+
+[2022-08-04T21:10:22.715Z] : [info]: ---------------------------------------------
+
+[2022-08-04T21:11:09.090Z] : [success]: Robot saved successfully
+
+[2022-08-04T21:11:09.105Z] : [success]: Bot started
+
+[2022-08-04T21:11:09.106Z] : [info]: Robot start
+
+[2022-08-04T21:13:12.699Z] : [success]: Bot finished successfully, total execution time: 2m 3s 591ms
+
+[2022-08-04T21:13:12.701Z] : [info]: ---------------------------------------------
+
+[2022-08-04T21:22:12.898Z] : [success]: Robot saved successfully
+
+[2022-08-04T21:22:22.776Z] : [success]: Bot started
+
+[2022-08-04T21:22:22.777Z] : [info]: Robot start
+
+[2022-08-04T21:24:30.648Z] : [success]: Bot finished successfully, total execution time: 2m 7s 869ms
+
+[2022-08-04T21:24:30.649Z] : [info]: ---------------------------------------------
+
+[2022-08-04T21:40:25.740Z] : [success]: Bot started
+
+[2022-08-04T21:40:25.742Z] : [info]: Robot start
+
+[2022-08-04T21:42:37.634Z] : [success]: Bot finished successfully, total execution time: 2m 11s 890ms
+
+[2022-08-04T21:42:37.635Z] : [info]: ---------------------------------------------
+
+[2022-08-05T12:35:51.239Z] : [success]: Robot saved successfully
+
+[2022-08-05T12:35:51.261Z] : [success]: Bot started
+
+[2022-08-05T12:35:51.262Z] : [info]: Robot start
+
+[2022-08-05T12:49:48.376Z] : [success]: Robot saved successfully
+
+[2022-08-05T12:49:48.400Z] : [success]: Bot started
+
+[2022-08-05T12:49:48.401Z] : [info]: Robot start
+
+[2022-08-05T13:03:44.491Z] : [success]: Robot saved successfully
+
+[2022-08-05T13:03:44.518Z] : [success]: Bot started
+
+[2022-08-05T13:03:44.519Z] : [info]: Robot start
+
+[2022-08-05T13:18:46.356Z] : [success]: Robot saved successfully
+
+[2022-08-05T13:18:46.381Z] : [success]: Bot started
+
+[2022-08-05T13:18:46.382Z] : [info]: Robot start
+
+[2022-08-05T13:36:11.063Z] : [success]: Robot saved successfully
+
+[2022-08-05T13:36:11.089Z] : [success]: Bot started
+
+[2022-08-05T13:36:11.090Z] : [info]: Robot start
+
+[2022-08-05T13:40:34.844Z] : [success]: Bot finished successfully, total execution time: 4m 23s 752ms
+
+[2022-08-05T13:40:34.846Z] : [info]: ---------------------------------------------
+
+[2022-08-05T13:41:24.386Z] : [success]: Bot started
+
+[2022-08-05T13:41:24.387Z] : [info]: Robot start
+
+[2022-08-05T13:43:19.846Z] : [success]: Bot finished successfully, total execution time: 1m 55s 457ms
+
+[2022-08-05T13:43:19.848Z] : [info]: ---------------------------------------------
+
+[2022-08-05T14:06:46.666Z] : [success]: Robot saved successfully
+
+[2022-08-05T14:06:51.626Z] : [success]: Bot started
+
+[2022-08-05T14:06:51.627Z] : [info]: Robot start
+
+[2022-08-05T14:09:09.804Z] : [success]: Bot finished successfully, total execution time: 2m 18s 175ms
+
+[2022-08-05T14:09:09.806Z] : [info]: ---------------------------------------------
+
+[2022-08-05T14:12:34.588Z] : [success]: Robot saved successfully
+
+[2022-08-05T14:16:15.036Z] : [success]: Workflow published successfully
+
+[2022-08-05T23:09:40.168Z] : [info]: Internet connection // error
+
+[2022-08-05T23:10:33.645Z] : [success]: Connection to our licenses server is restored
+
+[2022-08-05T23:11:30.639Z] : [info]: Internet connection // error
+
+[2022-08-05T23:11:40.330Z] : [success]: Connection to our licenses server is restored
+
+[2022-08-05T23:37:16.087Z] : [info]: Internet connection // error
+
+[2022-08-06T00:00:55.462Z] : [success]: Connection to our licenses server is restored
+
+[2022-08-06T00:06:03.096Z] : [info]: Internet connection // error
+
+[2022-08-06T00:07:03.432Z] : [success]: Connection to our licenses server is restored
+
+[2022-08-06T00:08:00.448Z] : [info]: Internet connection // error
+
+[2022-08-06T00:08:03.684Z] : [success]: Connection to our licenses server is restored
+
+[2022-08-08T13:16:44.169Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2022-08-08T13:16:44.185Z] : [error]: Cannot read properties of null (reading 'type')
+

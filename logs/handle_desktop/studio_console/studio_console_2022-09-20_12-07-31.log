@@ -1,0 +1,45 @@
+
+  ==========================================
+  Studio Pro version: 8.2.10
+  Started at: 20/9/2022, 12:10:37
+  ==========================================
+  
+
+[2022-09-20T15:10:43.945Z] : [success]: Robot saved successfully
+
+[2022-09-20T15:34:43.449Z] : [success]: Robot saved successfully
+
+[2022-09-20T15:42:57.806Z] : [success]: Robot saved successfully
+
+[2022-09-20T15:42:58.717Z] : [success]: Robot saved successfully
+
+[2022-09-20T15:42:59.390Z] : [success]: Robot saved successfully
+
+[2022-09-20T15:43:00.140Z] : [success]: Robot saved successfully
+
+[2022-09-20T15:43:11.592Z] : [success]: Robot saved successfully
+
+[2022-09-20T15:43:20.619Z] : [success]: Robot saved successfully
+
+[2022-09-20T15:43:24.931Z] : [info]: ---------------------------------------------
+
+[2022-09-20T15:43:24.932Z] : [success]: Bot started
+
+[2022-09-20T15:43:24.933Z] : [info]: Robot start
+
+[2022-09-20T15:44:14.566Z] : [success]: Bot finished successfully, total execution time: 49s 631ms
+
+[2022-09-20T15:44:14.567Z] : [info]: ---------------------------------------------
+
+[2022-09-20T15:51:44.167Z] : [success]: Robot saved successfully
+
+[2022-09-20T15:51:45.706Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2022-09-20T15:51:45.707Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2022-09-20T15:51:45.708Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2022-09-20T15:51:45.709Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2022-09-20T15:51:45.710Z] : [error]: Cannot read properties of null (reading 'type')
+

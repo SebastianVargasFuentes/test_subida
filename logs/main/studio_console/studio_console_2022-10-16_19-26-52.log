@@ -1,0 +1,77 @@
+
+  ==========================================
+  Studio Pro version: 8.2.10
+  Started at: 16/10/2022, 19:27:02
+  ==========================================
+  
+
+[2022-10-16T22:27:27.550Z] : [success]: Robot saved successfully
+
+[2022-10-16T22:58:03.231Z] : [success]: Robot saved successfully
+
+[2022-10-16T22:58:03.789Z] : [success]: Robot saved successfully
+
+[2022-10-16T22:58:04.248Z] : [success]: Robot saved successfully
+
+[2022-10-16T22:58:09.762Z] : [info]: ---------------------------------------------
+
+[2022-10-16T22:58:09.763Z] : [success]: Bot started
+
+[2022-10-16T22:58:09.764Z] : [info]: Robot start
+
+[2022-10-16T23:06:23.794Z] : [error]: Script Stopped.
+
+[2022-10-16T23:06:23.797Z] : [warn]: Total execution time: 8m 14s 29ms
+
+[2022-10-16T23:06:23.798Z] : [info]: ---------------------------------------------
+
+[2022-10-16T23:11:36.899Z] : [success]: Robot saved successfully
+
+[2022-10-16T23:12:23.667Z] : [success]: Robot saved successfully
+
+[2022-10-16T23:13:43.882Z] : [success]: Bot started
+
+[2022-10-16T23:13:43.883Z] : [info]: Robot start
+
+[2022-10-16T23:22:15.361Z] : [error]: Script Stopped.
+
+[2022-10-16T23:22:15.364Z] : [warn]: Total execution time: 8m 31s 477ms
+
+[2022-10-16T23:22:15.365Z] : [info]: ---------------------------------------------
+
+[2022-10-16T23:29:51.702Z] : [success]: Robot saved successfully
+
+[2022-10-16T23:29:56.215Z] : [success]: Bot started
+
+[2022-10-16T23:29:56.216Z] : [info]: Robot start
+
+[2022-10-16T23:38:45.714Z] : [error]: Script Stopped.
+
+[2022-10-16T23:38:45.718Z] : [warn]: Total execution time: 8m 49s 498ms
+
+[2022-10-16T23:38:45.719Z] : [info]: ---------------------------------------------
+
+[2022-10-16T23:49:35.014Z] : [success]: Robot saved successfully
+
+[2022-10-16T23:49:35.031Z] : [success]: Bot started
+
+[2022-10-16T23:49:35.031Z] : [info]: Robot start
+
+[2022-10-16T23:58:26.705Z] : [success]: Bot finished successfully, total execution time: 8m 51s 672ms
+
+[2022-10-16T23:58:26.707Z] : [info]: ---------------------------------------------
+
+[2022-10-16T23:58:45.960Z] : [success]: Robot saved successfully
+
+[2022-10-16T23:59:05.910Z] : [success]: Workflow published successfully
+
+[2022-10-16T23:59:09.233Z] : [success]: Robot saved successfully
+
+[2022-10-16T23:59:13.313Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2022-10-16T23:59:13.316Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2022-10-16T23:59:13.318Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2022-10-16T23:59:13.319Z] : [error]: Cannot read properties of null (reading 'type')
+

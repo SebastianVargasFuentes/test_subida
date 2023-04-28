@@ -1,0 +1,79 @@
+
+  ==========================================
+  Studio Pro version: 8.2.10
+  Started at: 14/11/2022, 17:40:51
+  ==========================================
+  
+
+[2022-11-14T20:42:09.477Z] : [success]: Robot saved successfully
+
+[2022-11-14T20:44:22.455Z] : [success]: Robot saved successfully
+
+[2022-11-14T21:46:57.293Z] : [success]: Robot saved successfully
+
+[2022-11-14T21:50:08.702Z] : [success]: Robot saved successfully
+
+[2022-11-14T21:50:12.236Z] : [success]: Robot saved successfully
+
+[2022-11-14T21:50:21.266Z] : [success]: Robot saved successfully
+
+[2022-11-14T21:50:30.269Z] : [success]: Bot started
+
+[2022-11-14T21:50:30.270Z] : [info]: Robot start
+
+[2022-11-14T22:15:39.717Z] : [success]: Robot saved successfully
+
+[2022-11-14T22:15:39.752Z] : [success]: Bot started
+
+[2022-11-14T22:15:39.753Z] : [info]: Robot start
+
+[2022-11-14T22:29:17.166Z] : [success]: Bot finished successfully, total execution time: 13m 37s 410ms
+
+[2022-11-14T22:29:17.168Z] : [info]: ---------------------------------------------
+
+[2022-11-14T22:33:13.261Z] : [success]: Robot saved successfully
+
+[2022-11-14T22:33:17.566Z] : [success]: Bot started
+
+[2022-11-14T22:33:17.567Z] : [info]: Robot start
+
+
+  ==========================================
+  Studio Pro version: 8.2.10
+  Started at: 14/11/2022, 19:34:32
+  ==========================================
+  
+
+[2022-11-14T22:35:55.300Z] : [success]: Robot saved successfully
+
+
+  ==========================================
+  Studio Pro version: 8.2.10
+  Started at: 14/11/2022, 19:36:01
+  ==========================================
+  
+
+[2022-11-14T22:36:03.548Z] : [success]: Robot saved successfully
+
+[2022-11-14T22:36:07.120Z] : [success]: Bot started
+
+[2022-11-14T22:36:07.121Z] : [info]: Robot start
+
+[2022-11-14T22:46:56.212Z] : [success]: Bot finished successfully, total execution time: 10m 49s 89ms
+
+[2022-11-14T22:46:56.214Z] : [info]: ---------------------------------------------
+
+[2022-11-14T22:48:39.516Z] : [success]: Workflow published successfully
+
+[2022-11-14T22:48:45.118Z] : [success]: Robot saved successfully
+
+[2022-11-14T22:48:57.245Z] : [success]: Robot saved successfully
+
+[2022-11-14T22:49:01.221Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2022-11-14T22:49:01.224Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2022-11-14T22:49:01.226Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2022-11-14T22:49:01.233Z] : [error]: Cannot read properties of null (reading 'type')
+

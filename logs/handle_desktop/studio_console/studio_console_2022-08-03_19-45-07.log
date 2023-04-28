@@ -1,0 +1,150 @@
+[2022-08-04T01:30:21.425Z] : [success]: Robot saved successfully
+
+[2022-08-04T01:30:21.435Z] : [info]: ---------------------------------------------
+
+[2022-08-04T01:30:21.436Z] : [success]: Bot started
+
+[2022-08-04T01:30:21.437Z] : [info]: Robot start
+
+[2022-08-04T01:30:25.640Z] : [success]: Bot finished successfully, total execution time: 4s 202ms
+
+[2022-08-04T01:30:25.642Z] : [info]: ---------------------------------------------
+
+[2022-08-04T01:42:29.486Z] : [success]: Robot saved successfully
+
+[2022-08-04T01:42:29.495Z] : [success]: Bot started
+
+[2022-08-04T01:42:29.496Z] : [info]: Robot start
+
+[2022-08-04T01:42:41.655Z] : [error]: Script Stopped.
+
+[2022-08-04T01:42:41.658Z] : [warn]: Total execution time: 12s 159ms
+
+[2022-08-04T01:42:41.659Z] : [info]: ---------------------------------------------
+
+[2022-08-04T01:44:46.369Z] : [success]: Robot saved successfully
+
+[2022-08-04T01:44:46.378Z] : [success]: Bot started
+
+[2022-08-04T01:44:46.379Z] : [info]: Robot start
+
+[2022-08-04T01:45:24.650Z] : [success]: Bot finished successfully, total execution time: 38s 269ms
+
+[2022-08-04T01:45:24.651Z] : [info]: ---------------------------------------------
+
+[2022-08-04T01:48:44.382Z] : [success]: Robot saved successfully
+
+[2022-08-04T01:48:44.393Z] : [success]: Bot started
+
+[2022-08-04T01:48:44.394Z] : [info]: Robot start
+
+[2022-08-04T01:48:54.649Z] : [success]: Bot finished successfully, total execution time: 10s 254ms
+
+[2022-08-04T01:48:54.651Z] : [info]: ---------------------------------------------
+
+[2022-08-04T03:11:11.484Z] : [success]: Robot saved successfully
+
+[2022-08-04T03:11:52.446Z] : [success]: Bot started
+
+[2022-08-04T03:11:52.447Z] : [info]: Robot start
+
+[2022-08-04T03:12:06.578Z] : [success]: Bot finished successfully, total execution time: 14s 129ms
+
+[2022-08-04T03:12:06.579Z] : [info]: ---------------------------------------------
+
+[2022-08-04T03:32:28.999Z] : [success]: Robot saved successfully
+
+[2022-08-04T03:32:38.059Z] : [success]: Bot started
+
+[2022-08-04T03:32:38.060Z] : [info]: Robot start
+
+[2022-08-04T03:33:01.691Z] : [success]: Bot finished successfully, total execution time: 23s 620ms
+
+[2022-08-04T03:33:01.692Z] : [info]: ---------------------------------------------
+
+[2022-08-04T03:48:33.275Z] : [success]: Robot saved successfully
+
+[2022-08-04T03:48:45.089Z] : [success]: Bot started
+
+[2022-08-04T03:48:45.090Z] : [info]: Robot start
+
+[2022-08-04T03:49:22.597Z] : [success]: Bot finished successfully, total execution time: 37s 505ms
+
+[2022-08-04T03:49:22.598Z] : [info]: ---------------------------------------------
+
+[2022-08-04T03:51:13.219Z] : [success]: Robot saved successfully
+
+[2022-08-04T03:52:34.231Z] : [success]: Robot saved successfully
+
+
+  ==========================================
+  Studio Pro version: 8.2.10
+  Started at: 4/8/2022, 1:05:03
+  ==========================================
+  
+
+[2022-08-04T05:05:18.111Z] : [success]: Robot saved successfully
+
+[2022-08-04T05:05:18.132Z] : [success]: Bot started
+
+[2022-08-04T05:05:18.133Z] : [info]: Robot start
+
+[2022-08-04T05:08:17.074Z] : [error]: Script Stopped.
+
+[2022-08-04T05:08:17.077Z] : [warn]: Total execution time: 2m 58s 940ms
+
+[2022-08-04T05:08:17.078Z] : [info]: ---------------------------------------------
+
+[2022-08-04T05:08:48.242Z] : [success]: Bot started
+
+[2022-08-04T05:08:48.244Z] : [info]: Robot start
+
+[2022-08-04T05:15:06.487Z] : [success]: Bot finished successfully, total execution time: 6m 18s 240ms
+
+[2022-08-04T05:15:06.490Z] : [info]: ---------------------------------------------
+
+[2022-08-04T05:15:29.645Z] : [success]: Robot saved successfully
+
+[2022-08-04T13:51:57.648Z] : [success]: Robot saved successfully
+
+[2022-08-04T13:52:03.407Z] : [success]: Bot started
+
+[2022-08-04T13:52:03.408Z] : [info]: Robot start
+
+[2022-08-04T13:53:58.075Z] : [error]: Script Stopped.
+
+[2022-08-04T13:53:58.079Z] : [warn]: Total execution time: 1m 54s 666ms
+
+[2022-08-04T13:53:58.081Z] : [info]: ---------------------------------------------
+
+[2022-08-04T13:56:09.394Z] : [success]: Robot saved successfully
+
+[2022-08-04T13:56:46.419Z] : [success]: Bot started
+
+[2022-08-04T13:56:46.421Z] : [info]: Robot start
+
+[2022-08-04T14:03:06.059Z] : [success]: Bot finished successfully, total execution time: 6m 19s 635ms
+
+[2022-08-04T14:03:06.061Z] : [info]: ---------------------------------------------
+
+[2022-08-04T16:12:36.903Z] : [success]: Robot saved successfully
+
+[2022-08-04T16:14:29.019Z] : [success]: Bot started
+
+[2022-08-04T16:14:29.020Z] : [info]: Robot start
+
+[2022-08-04T16:15:40.937Z] : [success]: Bot finished successfully, total execution time: 1m 11s 914ms
+
+[2022-08-04T16:15:40.940Z] : [info]: ---------------------------------------------
+
+[2022-08-04T20:41:57.742Z] : [success]: Robot saved successfully
+
+
+  ==========================================
+  Studio Pro version: 8.2.10
+  Started at: 4/8/2022, 16:44:55
+  ==========================================
+  
+
+[2022-08-04T20:45:10.455Z] : [success]: Robot saved successfully
+
